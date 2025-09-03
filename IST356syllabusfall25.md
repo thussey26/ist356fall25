@@ -157,9 +157,9 @@ Based on the assignments in this course and our specified learning outcomes, the
 | Week | Monday Class | Wednesday Class | Sunday Assignment Due|
 |-----|-----|-----|-----|
 | 1 | 8/25 | 8/27 | 8/31 |
-|   | Course Introduction | Python 1-1 | Complete Setup  |
+|   | Course Introduction | Class Setup | Complete Setup  |
 | 2 | 9/1 | 9/3 | 9/7 |
-|   | No Class: Labor Day | Python 1-2 | Assignment 1 (A1) |
+|   | No Class: Labor Day | Python 1-1 and 1-2 | Assignment 1 (A1) |
 | 3 | 9/8 | 9/10 | 9/14 |
 |   | Python 1-3 | Python 1-4 | Assignment 2 (A2) |
 | 4 | 9/15 | 9/17 | 9/21 |
