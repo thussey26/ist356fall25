@@ -4,7 +4,7 @@ from PIL import Image
 
 st.title("Camera Example")
 st.markdown('''
-    Let's take a picture with the camera and conver the image to greyscale with PIL
+    Let's take a picture with the camera and convert the image to greyscale with PIL
 
     Learn More about PIL: https://pillow.readthedocs.io/en/stable/index.html
 ''')

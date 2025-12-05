@@ -162,35 +162,35 @@ Based on the assignments in this course and our specified learning outcomes, the
 | 1 | 8/25 | 8/27 | 8/31 |
 |   | Course Introduction | Class Setup | Complete Setup  |
 | 2 | 9/1 | 9/3 | 9/7 |
-|   | No Class: Labor Day | Python 1-1 and 1-2 | Assignment 1 (A1) * 9/8 |
+|   | No Class: Labor Day | Python 1-1 | Assignment 1 (A1) |
 | 3 | 9/8 | 9/10 | 9/14 |
-|   | Python 1-3 | Python 1-4 | Practice |
+|   | Python 1-2 | Python 1-3 | Practice |
 | 4 | 9/15 | 9/17 | 9/21 |
-|   | UI 2.1 | UI 2.2 | Assignment 2 (A2) |
+|   | Python 1-3 | Python 1-4 | Assignment 2 (A2) |
 | 5 | 9/22 | 9/24 | 9/28 |
-|   | Data Wrangling 3-1 | Data Wrangling 3-2 | Assignment 3 (A3) |
+|   | Python 1-4 | UI 2.1 | Practice |
 | 6 | 9/29 | 10/1 | 10/5 |
-|   | Data Wrangling 3-3 | Data Wrangling 3-4 | Assignment 4 (A4) |
+|   | UI 2.1 | UI 2.2 | Assignment 3 (A3) |
 | 7 | 10/6 | 10/8 | 10/12 |
-|   | Data Wrangling 3-5 | Data Wrangling 3-6 | Assignment 5 (A5) |
+|   | Data Wrangling 3-1, 3.2 | Data Wrangling 3.3, 3.4 | Practice |
 | 8 | 10/13 | 10/15 | 10/19 |
-|   |  No Class: Fall Break | Exam 1 (E1) |  |
+|   |  No Class: Fall Break | DataWrangling 3.5, 3.6 | Assignment 4 (A4) |
 | 9 | 10/20 | 10/22 | 10/26 |
-|   | Web APIs 4-1 | Web APIs 4-2 | Practice |
+|   | Web APIs 4-1, 4.2 | EXAM 1 | Practice|
 | 10 | 10/27 | 10/29 | 11/2 |
-|   | Web APIs 4-3 | Web APIs 4-4 | Assignment 6 (A6) |
+|   | Web APIs 4-3 | Web APIs 4-4 | Assignment 5 (A5) |
 | 11 | 11/3 | 11/5 | 11/9 |
-|    | Web Scraping 5-1 | Web Scraping 5-2 | Assignment 7 (A7) |
+|    | Web Scraping 5-1 | Web Scraping 5-2 | Assignment 6 (A6) |
 | 12 | 11/10 | 11/12 | 11/16 |
-|   | Web Scraping 5-3 | Web Scraping 5-4 | Assignment 8 (A8) |
+|   | Web Scraping 5-1 | Web Scraping 5-2-5-4 |  |
 | 13 | 11/17 | 11/19 | 11/22 |
-|   | Data Visualization 6-1 | Data Visualization 6-2  | Practice |
+|   | Data Visualization 6-1 | Data Visualization 6-2  | Assignment 7 (A7) |
 | 14 | 11/24 | 11/26 | 11/30 |
 |   | No Class: Thanksgiving | No Class: Thanksgiving |  |
 | 15 | 12/1 | 12/3 | 12/7 |
-|   | Data Visualization 6-3 | Data Visualization 6-4 | Ptoject Plan |
+|   | Data Visualization 6-3 | Data Visualization 6-4 | Project Plan & Assign 8 (A8) |
 | 16 | 12/8 | 12/10 | 12/14 |
-|   | Exam 2 (E2) | Work on Final Project | Work on Final Project  |
+|   | EXAM 2 (E2) | Work on Final Project | Work on Final Project  |
 | 17 | 12/16 | 12/18 | 12/20 |
 
 ## Reading List

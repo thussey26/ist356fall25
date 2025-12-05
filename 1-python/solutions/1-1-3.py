@@ -10,3 +10,11 @@ otherwise we want it closed
 write code to simulate this
 '''
 
+sensor = float(input("Enter the pressure reading: "))
+
+# Check if the pressure is greater than 10.
+if sensor > 10:
+    print(f"Pressure is {sensor:.2f}. The door is OPEN.")
+else:
+    print(f"Pressure is {sensor:.2f}. The door is CLOSED.")
+    

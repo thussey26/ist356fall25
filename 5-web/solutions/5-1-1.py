@@ -1,0 +1,29 @@
+'''
+Scrape the Title off this page:  https://ist256.com/fall2023/about/ 
+
+Use the #ID selector to select the title.
+
+
+'''
+from playwright.sync_api import Playwright, sync_playwright, expect
+
+
+def run(playwright: Playwright) -> None:
+    browser = playwright.chromium.launch(headless=False)
+    context = browser.new_context()
+    page = context.new_page()
+    page.goto("python -m playwright  install chromium --with-deps")
+    
+    # Let us scrape the heading of this page
+    heading = page.query_selector("h1#about-ist256")
+    print(heading.inner_text())
+
+
+    
+    # ---------------------
+    context.close()
+    browser.close()
+
+
+with sync_playwright() as playwright:
+    run(playwright)

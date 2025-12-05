@@ -8,3 +8,14 @@ repeat the above up to 5 times. when the correct password is entered, stop loopi
 
 '''
 
+valid_pw = "secret"
+
+for i in range(5):
+    pw = input("Enter password")
+    if pw == valid_pw:
+        print("access granted")
+        break
+    else:
+        print("invalid password")
+else:
+    print("you are locked out")

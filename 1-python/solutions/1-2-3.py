@@ -5,3 +5,15 @@ only when the color is not already in the list print the list each time in the l
 '''
 
 
+colors = []
+while True:
+    color = input("Enter a color: ")
+    if color == "quit":
+        print("Exiting")
+        break
+    if color not in colors:
+        colors.append(color)
+        op = 'added to'
+    else:
+        op = 'already in'
+    print(f"{color} is {op} the list")
